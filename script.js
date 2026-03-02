@@ -1,0 +1,1 @@
+const countryInput = document.getElementById("country-input");
